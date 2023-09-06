@@ -2,6 +2,7 @@
 
 
 - 🔭 Still on School
+- 👌 Already learned SQL,C
 - 🌱 This Year (23/24) I'll Learn Java and Python
 
 <div>
