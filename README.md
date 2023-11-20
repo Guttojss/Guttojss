@@ -4,9 +4,9 @@
 
 <br>
 
-<h1> Eu sou Rodrigo Amaro </h1>
+<h1> Hi I'm Rodrigo Amaro </h1>
 
-Hi Come Meet Me!
+Be Welcomed to Meet Me!
 
 <br>
 
