@@ -31,8 +31,6 @@ Be Welcomed to Meet Me!
 <br>
 
 <div align="center">
-
 <sub>Feito com amor por <a href="https://bl4-zz-3-portofolio.vercel.app/" target="_blank">@Guttojss<a></sub>  
 <img height="20px" src="https://user-images.githubusercontent.com/49994083/189573872-f81a164a-de54-4536-a520-5e5124cf9653.png">
-
 <div>
