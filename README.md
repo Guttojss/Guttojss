@@ -17,7 +17,7 @@ Be Welcomed to Meet Me!
 
 <br>
 
-<h1>Minhas Redes</h1>
+<h1>My Social Media</h1>
 
 <div align="center">
 <a href="https://guttojss.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
