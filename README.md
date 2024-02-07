@@ -27,10 +27,3 @@ Be Welcomed to Meet Me!
 <a href="https://www.youtube.com/channel/UCUs59Xd1wQftpS5Oc5PT3og/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
 <a href="https://www.twitch.tv/guttojss/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
-
-<br>
-
-<div align="center">
-<sub>Feito com amor por <a href="https://bl4-zz-3-portofolio.vercel.app/" target="_blank">@Guttojss<a></sub>  
-<img height="20px" src="https://user-images.githubusercontent.com/49994083/189573872-f81a164a-de54-4536-a520-5e5124cf9653.png">
-<div>
