@@ -51,7 +51,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/alexandre-bento-a5205b255/" target="_blank">
+  <a href="https://www.linkedin.com/in/rodrigo-amaro-917b36306/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://dev.to/Guttojss" target="_blank">
@@ -63,12 +63,6 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Guttojss/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Alexffb&theme=radical" alt="Layout with last medium posts"  />
 </div>
 
 ###
