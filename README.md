@@ -43,7 +43,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Guttojss/Guttojss/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Guttojss/Guttojss/workflows/snake.svg" alt="Snake animation" />
 
 ###
 
