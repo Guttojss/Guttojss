@@ -39,7 +39,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Guttojss/Guttojss/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Guttojss/Guttojss/wokflows/snake.svg" alt="Snake animation" />
 
 ###
 
