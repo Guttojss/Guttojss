@@ -30,11 +30,7 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
   <img width="12" />
@@ -43,7 +39,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Guttojss/Guttojss/workflows/github-user-contribution.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Guttojss/Guttojss/output/snake.svg" alt="Snake animation" />
 
 ###
 
