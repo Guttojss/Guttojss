@@ -2,7 +2,11 @@
   👾 My name is Rodrigo and I'm a Backend Dev from Portugal 👾<br>
   🔥 Passionate about  Games, Tech, Multimedia, Music and Business 🔥<br>
   📚 Computer Programmer Student at the Fundao Professional School 📚<br>
-  
+
+  ###
+  <div align="center">
+    <a href="https://stardev.io/developers/Guttojss"><img alt="Verifica o meu ranking no stardev.io" src="https://stardev.io/developers/Guttojss/badge/languages/global.svg" /></a>
+  </div>
   ###
   
   <div align="center">
