@@ -44,7 +44,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Guttojss/.github/workflows/github-user-contribution.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Guttojss/workflows/github-user-contribution.svg" alt="Snake animation" />
 
 ###
 
