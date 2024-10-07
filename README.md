@@ -7,6 +7,7 @@
   <div align="center">
     <a href="https://stardev.io/developers/Guttojss"><img alt="Verifica o meu ranking no stardev.io" src="https://stardev.io/developers/Guttojss/badge/languages/global.svg" /></a>
   </div>
+  
   ###
   
   <div align="center">
