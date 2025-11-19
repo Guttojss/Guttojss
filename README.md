@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello World ! 👋<br>
   👾 My name is Rodrigo and I'm a Backend Dev from Portugal 👾<br>
   🔥 Passionate about  Games, Tech, Multimedia, Music and Business 🔥<br>
-  📚 Computer Programmer Student at the Fundao Professional School 📚<br>
+  📚 Studying software engineering at IPCB 📚<br>
 
   ###
   <div align="center">
