@@ -48,15 +48,9 @@
   <a href="https://www.linkedin.com/in/rodrigo-amaro-917b36306/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <!---
   <a href="https://dev.to/Guttojss" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
   </a>
+  -->
 </div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Guttojss/count.svg?"  />
-</div>
-
-###
