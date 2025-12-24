@@ -41,11 +41,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
 </div>
-
-###
-
+<!--
+### 
 <img src="https://raw.githubusercontent.com/Guttojss/workflows/github-user-contribution.svg" alt="Snake animation" />
-
+-->
 ###
 
 <div align="center">
