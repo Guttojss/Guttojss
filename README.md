@@ -3,8 +3,8 @@
   🔥 Passionate about  Games, Tech, Multimedia, Music and Business 🔥<br>
   📚 Studying software engineering at IPCB 📚<br>
 
-  What am I up to?
-  I'm tweaking my github right now, so there will be a few changes for better comprehension and organization.
+  ## What am I up to?
+  - I'm tweaking my github right now, so there will be a few changes for better comprehension and organization.
   
   <!--
   ###
