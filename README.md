@@ -2,7 +2,11 @@
   👾 My name is Rodrigo and I'm a Backend Dev from Portugal 👾<br>
   🔥 Passionate about  Games, Tech, Multimedia, Music and Business 🔥<br>
   📚 Studying software engineering at IPCB 📚<br>
-<!--
+
+  What am I up to?
+  I'm tweaking my github right now, so there will be a few changes for better comprehension and organization.
+  
+  <!--
   ###
   <div align="center">
     <a href="https://stardev.io/developers/Guttojss"><img alt="Verifica o meu ranking no stardev.io" src="https://stardev.io/developers/Guttojss/badge/languages/global.svg" /></a>
