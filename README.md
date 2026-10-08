@@ -20,26 +20,9 @@
 
 <h2>What teams can evaluate quickly</h2>
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Python · CSS · Java</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>11 repositories · 13 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>170 contributions · 39 active days</p></td>
-</tr>
-</table>
-
 <p><sub>Hi Come Meet Me!</sub></p>
 
 <h2>Proof at a glance</h2>
-
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>11</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>13</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>170</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>23</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
 
 <p align="center">
 <picture>
@@ -67,13 +50,6 @@
 </tr>
 </table>
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/Guttojss/Prova-de-Aptidao-Profissional">Prova-de-Aptidao-Profissional</a></h3><p>A selected public project.</p><p><sub>TypeScript · ⭐ 1</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/Guttojss/University">University</a></h3><p>Repo for all my Uni related programs.</p><p><sub>Java · ⭐ 2</sub></p></td>
-</tr>
-</table>
-
 <h2>Technical toolkit</h2>
 
 <p align="center">
@@ -82,16 +58,6 @@
   <img src="https://www.gitskins.com/api/section/stack?username=guttojss&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F88695081%3Fu%3D4291d5d1fe6dc909164a5ee87d798ce65ed2f0bd%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Guttojss_TFG technology stack" />
 </picture>
 </p>
-
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>93% of public code</sub></td>
-<td width="20%" align="center"><strong>CSS</strong><br /><sub>3% of public code</sub></td>
-<td width="20%" align="center"><strong>Java</strong><br /><sub>2% of public code</sub></td>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>1% of public code</sub></td>
-<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>1% of public code</sub></td>
-</tr>
-</table>
 
 <h2>Consistency signal</h2>
 
@@ -103,12 +69,3 @@
 </p>
 
 <hr />
-
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/guttojss">GitHub</a><br /><a href="https://linkfly.to/Guttojss">Website</a></td>
-</tr>
-</table>
-
-<p align="center"><sub>Guttojss_TFG · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
