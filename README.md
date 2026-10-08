@@ -1,71 +1,60 @@
-<div align="center">
+<h2 align="center">👋 Hello World ! 👋<br>
+  👾 My name is Rodrigo and I'm a Backend Dev from Portugal 👾<br>
+  🔥 Passionate about  Games, Tech, Multimedia, Music and Business 🔥<br>
+  📚 Studying Computer engineering at IPCB 📚<br>
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · guttojss</sub></p>
-<h1>Guttojss_TFG</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>Hi Come Meet Me!</p>
-<p><strong>● Building and sharing work in public</strong></p>
-<p><sub>Based in Portugal</sub></p>
-<p><a href="https://github.com/guttojss">GitHub</a> &nbsp;·&nbsp; <a href="https://linkfly.to/Guttojss">Website</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/88695081?u=4291d5d1fe6dc909164a5ee87d798ce65ed2f0bd&amp;v=4" width="180" alt="Guttojss_TFG GitHub avatar" />
-</td>
-</tr>
-</table>
+  ## What am I up to?
+  - I'm tweaking my github right now, so there will be a few changes for better comprehension and organization.
+  
+  <!--
+  ###
+  <div align="center">
+    <a href="https://stardev.io/developers/Guttojss"><img alt="Verifica o meu ranking no stardev.io" src="https://stardev.io/developers/Guttojss/badge/languages/global.svg" /></a>
+  </div>
+  ###
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Guttojss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Guttojss&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guttojss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guttojss&radius=26&theme=redical&area=true&order=5" height="150" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Guttojss&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4&rank=-?&title=-Followers" height="150" alt="trophy graph"  />
+</div>
+###
+-->
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+###
 
-<p><sub>Hi Come Meet Me!</sub></p>
-
-<h2>Proof at a glance</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=guttojss&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F88695081%3Fu%3D4291d5d1fe6dc909164a5ee87d798ce65ed2f0bd%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=guttojss&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F88695081%3Fu%3D4291d5d1fe6dc909164a5ee87d798ce65ed2f0bd%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Guttojss_TFG GitHub proof metrics" />
-</picture>
-</p>
-
-<h2>Selected work</h2>
-
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=guttojss&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F88695081%3Fu%3D4291d5d1fe6dc909164a5ee87d798ce65ed2f0bd%26v%3D4&repos=guttojss%2Fportefolio%2Cguttojss%2FProva-de-Aptidao-Profissional%2Cguttojss%2FUniversity&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=guttojss&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F88695081%3Fu%3D4291d5d1fe6dc909164a5ee87d798ce65ed2f0bd%26v%3D4&repos=guttojss%2Fportefolio%2Cguttojss%2FProva-de-Aptidao-Profissional%2Cguttojss%2FUniversity&v=recruiter-projects-1&mode=dark" width="100%" alt="Guttojss_TFG selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/Guttojss/portefolio">portefolio</a></h3>
-<p>This is my Portefolio!</p>
-<p><sub>HTML · ⭐ 1 · 🍴 0</sub></p>
-<p><a href="https://github.com/Guttojss/portefolio">Read the repository →</a></p>
-</td>
-</tr>
-</table>
-
-<h2>Technical toolkit</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=guttojss&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F88695081%3Fu%3D4291d5d1fe6dc909164a5ee87d798ce65ed2f0bd%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=guttojss&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F88695081%3Fu%3D4291d5d1fe6dc909164a5ee87d798ce65ed2f0bd%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Guttojss_TFG technology stack" />
-</picture>
-</p>
-
-<h2>Consistency signal</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=guttojss&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F88695081%3Fu%3D4291d5d1fe6dc909164a5ee87d798ce65ed2f0bd%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=guttojss&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F88695081%3Fu%3D4291d5d1fe6dc909164a5ee87d798ce65ed2f0bd%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Guttojss_TFG contribution activity" />
-</picture>
-</p>
-
-<hr />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+</div>
+<!--
+### 
+<img src="https://raw.githubusercontent.com/Guttojss/workflows/github-user-contribution.svg" alt="Snake animation" />
+###
+-->
+<div align="center">
+  <a href="https://www.linkedin.com/in/rodrigo-amaro-917b36306/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <!---
+  <a href="https://dev.to/Guttojss" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
+  </a>
+  -->
+</div>
